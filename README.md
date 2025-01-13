@@ -5,7 +5,7 @@
 # Requirements
 ```
 - TypeScript CLI
-- Any WebServer (Apache/Node/PHP)
+- Any WebServer (Apache/Node(Express / http-server) /PHP)
 
 ```
 ### Quick Start
