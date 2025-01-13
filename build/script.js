@@ -59,6 +59,8 @@ function main() {
         // }
     }
     setInterval(alienMove, 10);
+    // DEBUG INPUTS 
+    // Azerty keyboards registers Q for A (Case : Safari MacOS, Apple Aluminium French AZERTY layout)
     var debug = document.getElementById("inputDebug");
     addEventListener("keydown", debugInput);
     function debugInput(e) {
